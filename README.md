@@ -1,7 +1,14 @@
 # rick-and-morty
 
 ## Project setup
+
+To run this project locally:
+
 ```
+git clone https://github.com/LoisaKitakaya/Rick-and-Morty.git
+
+cd Rick-and-Morty
+
 npm install
 ```
 
@@ -12,7 +19,7 @@ npm run serve
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm run deploy
 ```
 
 ### Customize configuration
