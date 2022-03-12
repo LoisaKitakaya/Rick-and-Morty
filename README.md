@@ -9,4 +9,4 @@ This is a project built using:
 [live link](https://loisakitakaya.github.io/Rick-and-Morty/)
 
 ## Download project
-Follow instructions in this [README](https://github.com/LoisaKitakaya/Rick-and-Morty/tree/dev) in the dev branch.
+Follow instructions in this [README](https://github.com/LoisaKitakaya/Rick-and-Morty/blob/dev/README.md) in the dev branch.
